@@ -1,4 +1,7 @@
 # devops-capstone-project
+
+![CI Build](https://github.com/jimartinezkuhn/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This project is a microservice-based application developed as part of the DevOps Capstone, featuring a REST API and a CI/CD pipeline
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
