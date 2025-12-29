@@ -1,4 +1,5 @@
-# DevOps Capstone Template
+# devops-capstone-project
+This project is a microservice-based application developed as part of the DevOps Capstone, featuring a REST API and a CI/CD pipeline
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
